@@ -1,4 +1,4 @@
-      *A.1..B.+....2....+....3....+....4....+....5....+....6....+....7.
+      *A.1.B..+....2....+....3....+....4....+....5....+....6....+....7.
       *
       * A Simple Sample to start working with COBOL.
       * Depending on your environment, will have to work with a fixed
@@ -9,7 +9,7 @@
       * - Rest of the code starting in area B (12 to 71) 
       * - Continuation char is a dash in column 72.
       *
-      *A.1..B.+....2....+....3....+....4....+....5....+....6....+....7.
+      *A.1.B..+....2....+....3....+....4....+....5....+....6....+....7.
        id division.
          program-id. 100-empty.
 
